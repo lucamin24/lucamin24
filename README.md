@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lucas+Minetti" alt="Typing SVG"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I'm an **experienced Product Manager** with a background in **Industrial Engineering and Entrepreneurship**, bringing over **10 years of experience across Fintech, HRTech, and AdTech**, spanning both large enterprises and fast-paced startups.
@@ -15,8 +13,6 @@ I’m actively building projects focused on **AI tools, vibe coding, and testing
 
 I’m always open to exchanging ideas, collaborating on interesting projects, and exploring how technology can unlock better product experiences.  
 Feel free to get in touch! 👋
-
----
 
 ## 🌐 Connect with Me
 
